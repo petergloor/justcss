@@ -6,7 +6,7 @@
 
 body {
   background-color: #000;
-  color: #fff;
+  color: #ffffff;
   min-height: 100vh;
   display: grid;
   place-items: center;
@@ -73,7 +73,7 @@ body {
 
 .structure {
     left: -0.5em; top: -1.2em;
-    --color: brown;
+    --color: rgb(220, 253, 255);
   
   .top {
     rotate: 45deg;
@@ -129,7 +129,7 @@ body {
     --width: 4em;
     --height: 1em;
     --depth: 10em;
-    --color: brown;
+    --color: rgb(168, 111, 37);
   }
 }
 
